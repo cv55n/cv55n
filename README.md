@@ -1,5 +1,5 @@
 # cavassani
 
-come find me:
+socials:
 
-- https://www.instagram.com/cavassxni
+- [instagram](https://www.instagram.com/cavassxni)
