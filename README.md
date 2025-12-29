@@ -16,6 +16,7 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 
 - [are.na](https://www.are.na/lucas-cavassani)
 - [behance](https://www.behance.net/cavassani)
+- [bluesky](https://bsky.app/profile/cavassani.bsky.social)
 - [civitai](https://civitai.com/user/cvsn)
 - [dribbble](https://dribbble.com/cavassxni)
 - [hugging face](https://huggingface.co/cavassani)
