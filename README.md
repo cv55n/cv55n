@@ -4,7 +4,7 @@
 
 lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo, brazil. **him practise investigates the entanglement between technology, digital culture and sensitive experience, creating visual worlds that move between the intimate and the collective.** he works with digital imagery, collage, video and editorial experiments, exploring ornament and detail as forms of aesthetic resistance
 
-#### interests:
+#### interests
 
 - art
 - code
@@ -12,19 +12,22 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 - music
 - softwares
 
-#### socials:
+#### socials
 
 - [are.na](https://www.are.na/lucas-cavassani)
 - [behance](https://www.behance.net/cavassani)
+- [civitai](https://civitai.com/user/cvsn)
 - [dribbble](https://dribbble.com/cavassxni)
 - [hugging face](https://huggingface.co/cavassani)
 - [instagram](https://www.instagram.com/cavassxni)
 - [linkedin](https://www.linkedin.com/in/cavassani)
+- [patreon](https://www.patreon.com/c/cavassani)
 - [pinterest](https://pinterest.com/cavassxni/)
 - [x](https://x.com/grungegaze)
 - [youtube](https://www.youtube.com/@cavassani)
 - [zora](https://zora.co/@cavassani)
 
-#### other web pages:
+#### other web pages
 
 - [neocities](https://cavassani.neocities.org/)
+- [tumblr](https://cavassani.tumblr.com/)
