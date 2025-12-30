@@ -6,6 +6,8 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 
 #### interests
 
+- 3d
+- ai
 - art
 - code
 - design
