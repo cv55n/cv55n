@@ -29,6 +29,7 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 - [patreon](https://www.patreon.com/c/cavassani)
 - [pinterest](https://pinterest.com/cavassxni/)
 - [soundcloud](https://soundcloud.com/cavassani)
+- [steam](https://steamcommunity.com/id/cvssn/)
 - [x](https://x.com/grungegaze)
 - [youtube](https://www.youtube.com/@cavassani)
 - [zora](https://zora.co/@cavassani)
