@@ -15,15 +15,18 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 #### socials
 
 - [are.na](https://www.are.na/lucas-cavassani)
+- [bandcamp](https://bandcamp.com/cavassani)
 - [behance](https://www.behance.net/cavassani)
 - [bluesky](https://bsky.app/profile/cavassani.bsky.social)
 - [civitai](https://civitai.com/user/cvsn)
 - [dribbble](https://dribbble.com/cavassxni)
+- [genius](https://genius.com/cavassani)
 - [hugging face](https://huggingface.co/cavassani)
 - [instagram](https://www.instagram.com/cavassxni)
 - [linkedin](https://www.linkedin.com/in/cavassani)
 - [patreon](https://www.patreon.com/c/cavassani)
 - [pinterest](https://pinterest.com/cavassxni/)
+- [soundcloud](https://soundcloud.com/cavassani)
 - [x](https://x.com/grungegaze)
 - [youtube](https://www.youtube.com/@cavassani)
 - [zora](https://zora.co/@cavassani)
