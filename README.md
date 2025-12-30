@@ -32,3 +32,8 @@ lucas cavassani (b.2006) is a virtual artist and researcher based in são paulo,
 
 - [neocities](https://cavassani.neocities.org/)
 - [tumblr](https://cavassani.tumblr.com/)
+
+#### games i like
+
+- [roblox](https://www.roblox.com/users/4362792397/profile)
+- [warframe](https://forums.warframe.com/profile/5840973-cvssn/) (and [my builds](https://overframe.gg/user/231429/cavassani))
